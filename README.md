@@ -44,3 +44,5 @@ poetry run streamlit run app.py
 ## Outils
 
 Python · pandas · scikit-learn · Streamlit · Poetry · Git
+
+**🚀 [Tester l'application en ligne](https://prediction-prix-immobilier.streamlit.app)**
